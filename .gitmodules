@@ -1,0 +1,3 @@
+[submodule "baseline_hotspot"]
+	path = baseline_hotspot
+	url = https://github.com/kazutani/baseline_hotspot.git
